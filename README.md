@@ -72,9 +72,9 @@ Here's a mix of my favorite tools and languages, served with a sprinkle of creat
 - **Languages**: `Python`, `JavaScript`, `Java`, `C`
 - **Frameworks**: `MERN Stack`, `Django`, `Flask`
 - **Cloud**: `AWS`, `Salesforce`
-- **Databases**: `SQL`, `MongoDB`, `PostgreSQL`
+- **Databases**: `SQL`, `MongoDB`
 - **Web**: `HTML`, `CSS`, `JavaScript`, `Bootstrap`
-- **Extras**: `Git`, `Docker`, `CI/CD`
+- **Extras**: `Git`, `Docker`
 
 ---
 
