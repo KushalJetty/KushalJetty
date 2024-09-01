@@ -3,7 +3,7 @@
   <p><em>👨‍💻 Code Ninja | 🚀 MERN Stack Explorer | ☁️ Cloud Enthusiast</em></p>
   <p><strong>Welcome to my GitHub realm!</strong></p>
   <a href="https://github.com/KushalJetty">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&width=435&lines=Building+Things+One+Commit+at+a+Time;Turning+Ideas+into+Reality;Lover+of+All+Things+Tech+%26+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Building+Things+One+Commit+at+a+Time;Turning+Ideas+into+Reality;Crafting+Code+with+Passion" alt="Typing SVG" />
   </a>
 </div>
 
@@ -72,7 +72,7 @@ Here's a mix of my favorite tools and languages, served with a sprinkle of creat
 - **Languages**: `Python`, `JavaScript`, `Java`, `C`
 - **Frameworks**: `MERN Stack`, `Django`, `Flask`
 - **Cloud**: `AWS`, `Salesforce`
-- **Databases**: `SQL`, `MongoDB`
+- **Databases**: `SQL`, `MongoDB`, `PostgreSQL`
 - **Web**: `HTML`, `CSS`, `JavaScript`, `Bootstrap`
 - **Extras**: `Git`, `Docker`, `CI/CD`
 
@@ -95,7 +95,7 @@ Feeling inspired? Want to collaborate? Just want to say hi? Reach out to me!
 
 - [LinkedIn](https://www.linkedin.com/in/kushaljetty/)
 - [GitHub](https://github.com/KushalJetty)
-- [LinkedIn](https://x.com/KushalJetty_007)
+- [Twitter](https://x.com/KushalJetty_007)
 
 ---
 
