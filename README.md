@@ -70,7 +70,7 @@ Here’s what I’ve been up to:
 Here's a mix of my favorite tools and languages, served with a sprinkle of creativity:
 
 - **Languages**: `Python`, `JavaScript`, `Java`, `C`
-- **Frameworks**: `MERN Stack`, `Django`, `Flask`
+- **Frameworks**: `MERN Stack`, `Django`
 - **Cloud**: `AWS`, `Salesforce`
 - **Databases**: `SQL`, `MongoDB`
 - **Web**: `HTML`, `CSS`, `JavaScript`, `Bootstrap`
